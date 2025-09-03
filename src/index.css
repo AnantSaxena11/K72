@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: lausanne-300;
+    src: url(/fonts/Lausanne-300.woff2)
+}
+
+@font-face {
+    font-family: lausanne-500;
+    src: url(/fonts/Lausanne-500.woff2);
+}
+@theme {
+  --color-green-1100: #d3fd50;
+}
